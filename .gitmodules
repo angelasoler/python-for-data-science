@@ -1,0 +1,15 @@
+[submodule "python0"]
+	path = python0
+	url = git@github.com:angelasoler/python0.git
+[submodule "python01"]
+	path = python01
+	url = git@github.com:angelasoler/python01.git
+[submodule "python02"]
+	path = python02
+	url = git@github.com:angelasoler/python02.git
+[submodule "python3"]
+	path = python3
+	url = git@github.com:angelasoler/python3.git
+[submodule "python04"]
+	path = python04
+	url = git@github.com:angelasoler/python04.git
